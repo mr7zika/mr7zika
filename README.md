@@ -1,20 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width:100%;" />
 </p>
+
 ---
 
-<h1 align="center">
-  👋 Hey! I'm Ahmed
-</h1>
-
-<h3 align="center">
-  🌱 A Beginner Web Developer on a mission to grow and build cool stuff 🚀
-</h3>
+## 👋 Hey! I'm Ahmed (Beginner Web Developer)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Self-taught+Developer+👨‍💻;Learning+HTML,+CSS,+JS,+PHP,+MySQL;Building+my+first+real+projects+💡;Enjoying+every+step+of+the+journey+❤️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Learning+to+Code...;HTML,+CSS,+JS,+PHP,+MySQL...;Enjoying+the+Journey+🚀"  />
 </p>
-
 ---
 
 ### 🛠 Tech Stack
@@ -77,13 +71,14 @@
 </p>
 
 ---
+---
 
 ### 🌟 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="250" style="border-radius: 10px; margin: 10px;" />
 </p>
 
 ---
