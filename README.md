@@ -40,11 +40,21 @@
 
 ---
 
-### 📊 GitHub Stats
+
+### 🚀 My GitHub Journey Just Started!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="50%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29yNTFoa25iN3BtZTVlazNxcmZybGZia3A1Z2ZidXFoZWU3Nm83YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  I'm just getting started in the world of coding 🌱 <br/>
+  Learning every day, one commit at a time 💡<br/>
+  Stay tuned for awesome projects coming soon! 🚧💻
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Building+my+first+projects...;Learning+HTML,+CSS,+JavaScript...;Pushing+my+first+commits...;The+journey+has+just+begun+%F0%9F%9A%80" />
 </p>
 
 ---
