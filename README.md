@@ -59,12 +59,14 @@
 
 ---
 
+---
+
 ### 🌟 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QyZXBhbzB4MXp2cXplNnF5Z2N6aXNmbzQ3Y3JtbzBqYjJrNW5jMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
 </p>
 
 ---
