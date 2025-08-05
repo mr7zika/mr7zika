@@ -4,13 +4,11 @@
 
 ---
 
-## 👋 Hey! I'm Ahmed (Full-Stack Developer)
+## 👋 Hey! I'm Ahmed (Beginner Web Developer)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Love+to+Build+Cool+Stuff+%F0%9F%92%A1;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Learning+to+Code...;HTML,+CSS,+JS,+PHP,+MySQL...;Enjoying+the+Journey+🚀" alt="Typing SVG" />
 </p>
-
----
 
 ---
 
@@ -22,8 +20,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="100" />
 </p>
-
----
 
 ---
 
@@ -57,14 +53,12 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
 </p>
 
-
 ---
-
 
 ### 🚀 My GitHub Journey Just Started!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29yNTFoa25iN3BtZTVlazNxcmZybGZia3A1Z2ZidXFoZWU3Nm83YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -79,14 +73,12 @@
 
 ---
 
----
-
 ### 🌟 Fun Zone
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QyZXBhbzB4MXp2cXplNnF5Z2N6aXNmbzQ3Y3JtbzBqYjJrNW5jMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" style="border-radius: 10px; margin: 10px;" />
 </p>
 
 ---
@@ -94,7 +86,7 @@
 ### 📈 Visitors Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" />
 </p>
 
 ---
