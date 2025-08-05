@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Learning+to+Code...;HTML,+CSS,+JS,+PHP,+MySQL...;Enjoying+the+Journey+🚀" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🛠 Tech Stack
