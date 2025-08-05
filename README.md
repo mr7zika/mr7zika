@@ -12,31 +12,51 @@
 
 ---
 
+---
+
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" height="50" style="margin: 10px;" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="100" />
+</p>
+
+---
 
 ---
 
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="40" />
+  </a>
+  <a href="https://wa.me/201234567890" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
+</p>
+
 
 ---
 
