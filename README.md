@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width:100%;" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
 </p>
-
 ---
 
-## 👋 Hey! I'm Ahmed (Beginner Web Developer)
+<h1 align="center">
+  👋 Hey! I'm Ahmed
+</h1>
+
+<h3 align="center">
+  🌱 A Beginner Web Developer on a mission to grow and build cool stuff 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Learning+to+Code...;HTML,+CSS,+JS,+PHP,+MySQL...;Enjoying+the+Journey+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Self-taught+Developer+👨‍💻;Learning+HTML,+CSS,+JS,+PHP,+MySQL;Building+my+first+real+projects+💡;Enjoying+every+step+of+the+journey+❤️" />
 </p>
+
 ---
 
 ### 🛠 Tech Stack
