@@ -1,10 +1,37 @@
+## 👋 Hey! I'm Ahmed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
+
+### 💻 Beginner Web Developer | 💡 Always Learning
+
+- 🎯 مهتم بتطوير واجهات الويب باستخدام HTML, CSS, JavaScript
+- 🚀 أستخدم Bootstrap و TailwindCSS لتصميم مواقع جذابة
+- 🛠️ أتعلم PHP و MySQL لبناء تطبيقات ديناميكية
+- 🐍 أبدأ أتعلم Python لتوسيع قدراتي البرمجية
+- 🌱 أطور نفسي كل يوم وأحب أشارك مشاريعي على GitHub
+
+---
+
+
+---
+
+### 📫 تواصل معايا:
+- 💬 **Email:** your- a.hassan777555@gmail.com
+- 🧑‍💻 **GitHub:** https://github.com/mr7zika
+
+
+### 🧩 Fun Fact:
+> أحب أتعلم حاجات جديدة دايمًا، والمشاريع الصغيرة هي طريقي للاحتراف 🚀
+.............
+
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width:100%;" />
 </p>
 
 ---
 
-## 👋 Hey! I'm Ahmed (Beginner Web Developer)
 
 <h3 align="center">
   💻 Passionate about learning, practicing, and building cool stuff on the web 🌐
