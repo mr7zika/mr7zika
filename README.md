@@ -4,20 +4,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
-</p>
-
-<h1 align="center" style="color: #4CAF50;">
-  Hey! I'm Ahmed
-</h1>
+## 👋 Hey! I'm Ahmed (Beginner Web Developer)
 
 <h3 align="center">
-  💻 Beginner Web Developer | Passionate About Learning & Building 🌱
+  💻 Passionate about learning, practicing, and building cool stuff on the web 🌐
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=450&lines=Learning+HTML,+CSS,+JavaScript,+PHP,+MySQL;Building+my+first+real+projects;Coding+my+future+one+line+at+a+time+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=450&lines=Learning+to+Code...;HTML,+CSS,+JS,+PHP,+MySQL...;Enjoying+the+Journey+🚀" />
 </p>
 
 ---
